@@ -1,0 +1,18 @@
+{
+    "short_name": "JimmysRafael",
+    "name": "JimmysRafael",
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#383736",
+    "theme-color": "#383736",
+    "background_color": "#383736",
+    "background-color": "#383736",
+    "description": "Projeto Jimmys",
+    "icons": [
+      {
+        "src": "img/2.png",
+        "type": "image/png",
+        "sizes": "500x500"
+      }
+    ]
+  }
